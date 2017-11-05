@@ -1,0 +1,8 @@
+
+
+$ git clone <PASTE>
+
+$ git add .
+$ git commit -m "Add existing file"
+[git pull --rebase]
+$ git push
